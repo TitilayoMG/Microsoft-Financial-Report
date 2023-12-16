@@ -26,24 +26,35 @@ Microsoft Excel Concepts like:
 
 
 ## Data Transformation
-Before I begin, I made sure I understood the structure and contents of the dataset. I Identified the columns relevant to income, such as revenue, expenses, net income, and the date column
+Before I begin, I made sure I understood the structure and content of the dataset. I Identified the columns relevant to income, such as revenue, expenses, net income, and the date column
 Clean the data by correcting data types and ensuring consistency.
+
 * Dataset Preview
 
 
  ## Data Analysis
 I Created a new table to store relevant data in regards to the report and used form control to allow users select specific quarter and year.
+
 Here, I did alot of complex Excel formulas and functions to perform dynamic calculations to derive financial metrics.
+
 I implemented absolute and relative cell references to ensure accurate formula calculations and copying across cells.
+
 I Generated various types of charts (bar charts, line graphs, pie charts) to visually represent financial trends and comparisons
+
 * Tables created
 
   
 ## Data Visualizations
 Creating an interactive Microsoft Excel dashboard involves a set of skills that go beyond basic spreadsheet proficiency
-Creating charts and graphs that respond dynamically to user inputs or selections, enhancing visual representation and analysis.
-Incorporating form controls (buttons, checkboxes, scroll bars) for interactivity and user control over specific elements of the dashboard.
-Using hyperlinks and creating navigation buttons to allow users to move seamlessly between different sections or sheets within the dashboard.
+I created charts and graphs that respond dynamically to selections, enhancing visual representation and analysis.
+I Incorporated form controls for interactivity to help user control specific elements of the dashboard.
+I used hyperlinks and created navigation buttons to allow users to move seamlessly between different sheets within workbook.
+
+I arrived at a report with three (3) pages named:
+* Cover Page
+* Dashboard Page 
+* Analysis Page
+
 ## Summary
 
 ## Recommendations
