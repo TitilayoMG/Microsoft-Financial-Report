@@ -11,6 +11,7 @@ The objective of preparing this financial report is to provide a clear, accurate
 * What is the net income, operating income and income before tax.
 
 ## Data Source
+The data used for this work is gotten from DahelTechies Intership Program. This is one of the project provided to work on. 
 
 ## Skills and Concepts Demonstrated
 Microsoft Excel Concepts like:
@@ -45,13 +46,13 @@ I Generated various types of charts (bar charts, line graphs, pie charts) to vis
 
   
 ## Data Visualizations
-Creating an interactive Microsoft Excel dashboard involves a set of skills that go beyond basic spreadsheet proficiency
+Here, I moved my analysis to my dashboard page.
 
-I created charts and graphs that respond dynamically to selections, enhancing visual representation and analysis.
+Created charts and graphs that respond dynamically to selections, enhancing visual representation and analysis.
 
-I Incorporated form controls for interactivity to help user control specific elements of the dashboard.
+Incorporated form controls for interactivity to help user control specific elements of the dashboard.
 
-I used hyperlinks and created navigation buttons to allow users to move seamlessly between different sheets within workbook.
+Used hyperlinks and created navigation buttons to allow users to move seamlessly between different sheets within workbook.
 
 Finally, I arrived at a report with three (3) pages named:
 * Cover Page
@@ -59,5 +60,15 @@ Finally, I arrived at a report with three (3) pages named:
 * Analysis Page
 
 ## Summary
+* Unearned revenue for productivity and business processes, intelligent cloud and more personal computing are $14,077, $12984 and $3336 with the percentage of 46%, 43% and 11% respectively.
+* Capital expenditure (in billions), revenue (in millions), total cost of revenue (in million) and net income (in millions) are shown in regards to the quarter and year selected from the drop-down list.
+* Gross margin, operating income, income before tax and other income are represented on column chart with their respective amount right on top of each column
+* Research and development, sales and marketing, general and administrative fees are shown on the analysis page
 
 ## Recommendations
+* The company should monitor and manage cash flows closely, considering the significant capital expenditure and to also ensure that expansions should not strain liquidity but have a sustainable impact on the organization's financial health.
+* The organization should explore strategic partnerships and collaborations to share the burden of capital expenditure as the amount spent only on capital expenditure is huge 
+* Also, prioritize investments based on strategic alignment, market potential, and long-term growth prospects to enhance capabilities
+
+## Thank you for reading
+I’m open to any data roles
