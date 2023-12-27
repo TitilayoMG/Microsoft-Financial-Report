@@ -74,7 +74,7 @@ The cover table shows the title of the report, the financial period (Jan 2016 - 
 * Dashboard
 ![](MsDash2.PNG)
 
-* Analysis page
+* Analysis page:
 This page shows the calculations and working of the incomes before moving it to the dashboard page. Here, the figures are shown in a table format.
 
 ## Summary
