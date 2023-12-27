@@ -4,7 +4,7 @@ This report contains a detailed overview of financial performance, position, and
 ![](revenue-operations-concept.jpg)
 
 ## Introduction
-The objective of preparing this financial report is to provide a clear, accurate, and comprehensive overview of the organization's financial performance. This financial report provide stakeholders with accurate and transparent insights into the financial health and performance of the organization analyzed on Microsoft Excel. It will serve as a crucial tool for accountability and effective communication, fostering trust and confidence among stakeholders.
+The objective of preparing this financial report is to provide a clear, accurate, and comprehensive overview of the organization's financial performance. This financial report provide stakeholders with accurate and transparent insights into the financial health and performance of the organization and it's analyzed on Microsoft Excel. It will serve as a crucial tool for accountability and effective communication, fostering trust and confidence among stakeholders.
 
 ## Problem Statement
 The goal is to provide answers to the following questions:
@@ -44,7 +44,7 @@ Here, I did alot of complex Excel formulas and functions to perform dynamic calc
 
 I implemented absolute and relative cell references to ensure accurate formula calculations and copying across cells.
 
-I Generated various types of charts (bar charts, line graphs, pie charts) to visually represent financial trends and comparisons
+I generated various types of charts (bar charts, line graphs, pie charts) to visually represent financial trends and comparisons
 
 * Analysis
 
@@ -74,6 +74,8 @@ The cover table shows the title of the report, the financial period (Jan 2016 - 
 * Dashboard
 ![](MsDash2.PNG)
 
+* Analysis page
+This page shows the calculations and working of the incomes before moving it to the dashboard page. Here, the figures are shown in a table format.
 
 ## Summary
 * Unearned revenue for productivity and business processes, intelligent cloud and more personal computing are $14,077, $12984 and $3336 with the percentage of 46%, 43% and 11% respectively.
