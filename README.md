@@ -81,10 +81,9 @@ This page shows the calculations and working of the incomes before moving it to 
 * Unearned revenue for productivity and business processes, intelligent cloud and more personal computing are $14,077, $12984 and $3336 with the percentage of 46%, 43% and 11% respectively.
 * Capital expenditure (in billions), revenue (in millions), total cost of revenue (in million) and net income (in millions) are shown in regards to the quarter and year selected from the drop-down list.
 * Gross margin, operating income, income before tax and other income are represented on column chart with their respective amount right on top of each column
-* Research and development, sales and marketing, general and administrative fees are shown on the analysis page
 
 ## Recommendations
-* The company should monitor and manage cash flows closely, considering the significant capital expenditure and to also ensure that expansions should not strain liquidity but have a sustainable impact on the organization's financial health.
+* The company should monitor and manage cash flows closely, considering the significant of capital expenditure and to also ensure that expansions should not strain liquidity but have a sustainable impact on the organization's financial health.
 * The organization should explore strategic partnerships and collaborations to share the burden of capital expenditure as the amount spent only on capital expenditure is huge 
 * Also, prioritize investments based on strategic alignment, market potential, and long-term growth prospects to enhance capabilities
 
